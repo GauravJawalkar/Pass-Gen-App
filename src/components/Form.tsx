@@ -25,7 +25,7 @@ const Form = () => {
         const specialChars = "!@#$%^&*()_+'";
 
         if (upperCase) {
-            characterList += upperCase
+            characterList += upperCaseChars
         }
 
     }
