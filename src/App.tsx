@@ -6,7 +6,7 @@ import RollTheDice from './components/RollTheDice'
 const App = () => {
   return (
     <View className='dark:bg-neutral-800'>
-      <RollTheDice />
+      <Form />
     </View>
   )
 }
