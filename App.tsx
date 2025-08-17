@@ -1,10 +1,11 @@
 import { View, Text } from 'react-native'
 import React from 'react'
+import Form from './src/components/Form'
 
 const App = () => {
   return (
-    <View className='min-h-screen bg-neutral-700 flex-1 items-center justify-center'>
-      <Text className='text-2xl font-bold text-white'>App</Text>
+    <View className='dark:bg-neutral-800'>
+      <Form />
     </View>
   )
 }
