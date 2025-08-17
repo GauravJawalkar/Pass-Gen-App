@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Form from './src/components/Form'
-import RollTheDice from './src/components/RollTheDice'
+import Form from './components/Form'
+import RollTheDice from './components/RollTheDice'
 
 const App = () => {
   return (
